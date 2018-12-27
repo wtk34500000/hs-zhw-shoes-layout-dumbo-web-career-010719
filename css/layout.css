@@ -42,3 +42,12 @@ section{
 .col-3{
   background: white;
 }
+
+.small {
+  width:32%;
+}
+
+.first{
+  margin-left:0;
+}
+
