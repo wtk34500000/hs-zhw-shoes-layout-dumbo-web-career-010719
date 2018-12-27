@@ -23,5 +23,43 @@
 }
 
 /* Positioning Classes */
+section{
+  margin: 10px 10px;
+}
 
 
+.col-1{
+  float:left;
+  width: 64.5%;
+  background:white;
+}
+
+.col-2 {
+  float:left;
+  width: 32%;
+  background: white;
+}
+
+.col-3{
+  float:left;
+  width: 31.5%;
+  background: white;
+}
+
+.col-4{
+  float:left;
+  width: 32%;
+}
+
+
+.first{
+  margin-left:0;
+}
+
+.small {
+  padding:10px 10px;
+}
+
+.around{
+  margin:0 0 0 0;
+}
