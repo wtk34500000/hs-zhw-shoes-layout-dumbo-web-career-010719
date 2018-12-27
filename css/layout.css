@@ -23,7 +23,9 @@
 }
 
 /* Positioning Classes */
-
+section{
+  padding:0 2px;
+}
 .col-1{
   float:left;
   width: 62%;
