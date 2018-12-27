@@ -24,7 +24,7 @@
 
 /* Positioning Classes */
 section{
-  margin: 10px auto;
+  margin: 10px 0;
 }
 .col-1{
   float:left;
