@@ -39,6 +39,8 @@ section{
 }
 
 .col-3{
+   float:left;
+  width: 31%;
   background: white;
 }
 
