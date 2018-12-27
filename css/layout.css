@@ -65,6 +65,6 @@ section{
 
 }
 
-.footer {
-  height: 30px
+.footer p{
+  height: 40px;
 }
