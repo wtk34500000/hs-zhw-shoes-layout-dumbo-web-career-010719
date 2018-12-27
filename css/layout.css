@@ -30,15 +30,15 @@ section{
 .col-1{
   float:left;
   width: 62%;
-  background: #ccc
+  background: #ccc;
 }
 
 .col-2 {
   float:left;
-  padding-left:10px;
   width: 32%;
+  background: #ccc;
 }
 
 .col-3{
-  
+  background: #ccc;
 }
