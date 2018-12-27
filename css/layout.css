@@ -26,9 +26,11 @@
 section{
   margin:0 10px;
 }
+
 .col-1{
   float:left;
   width: 62%;
+  background: #ccc
 }
 
 .col-2 {
@@ -37,3 +39,6 @@ section{
   width: 32%;
 }
 
+.col-3{
+  
+}
